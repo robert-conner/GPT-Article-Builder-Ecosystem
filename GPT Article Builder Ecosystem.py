@@ -1,3 +1,11 @@
+'''
+GPT Article Builder Ecosystem
+Description
+The GPT Article Builder Ecosystem is an innovative tool designed to automate the creation of well-researched, SEO-optimized articles. At its core, this ecosystem leverages the power of GPT (Generative Pre-trained Transformer) and FAISS (Facebook AI Similarity Search) to intelligently generate articles that are not only relevant and engaging but also rooted in authoritative sources.
+
+Utilizing a sophisticated blend of natural language processing (NLP) techniques and prompt engineering, the system efficiently extracts and synthesizes information from a curated corpus of documents. This process ensures that each article is backed by credible information, with proper citations to original sources, enhancing the article's reliability and usefulness.
+'''
+
 #import required libs
 from tqdm import tqdm
 import pickle
